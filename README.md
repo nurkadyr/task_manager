@@ -19,12 +19,13 @@
 ## Технические требования
 
 - Python 3.8+
-- Django 3.2+
+- Django 4.2+
 - Django REST Framework
 - djangorestframework-simplejwt
 - djoser
 - drf-yasg
 - django-filter
+- django-cors-headers
 
 ## Установка и запуск
 
